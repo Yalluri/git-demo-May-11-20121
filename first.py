@@ -1,9 +1,10 @@
 
 import json
 import csv
-
+import blog3
 
 print "Hi! My name is Surendar Reddy and I am learning git"
 print "we have lovely wheather today"
 print "Yesterday we had rain"
 print "we are all good"
+print "I stay in HYD"
